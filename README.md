@@ -42,7 +42,7 @@ pip install pyspark pandas matplotlib seaborn
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/temperature-analysis.git
+git clone https://github.com/huylys54/Simple-PySpark.git
 cd temperature-analysis
 ```
 
