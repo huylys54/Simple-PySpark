@@ -42,8 +42,8 @@ pip install pyspark pandas matplotlib seaborn
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/temperature-analysis.git
-cd temperature-analysis
+git clone https://github.com/huylys54/Simple-PySpark.git
+cd Simple-PySpark
 ```
 
 2. Place the dataset file (`global_temperatures.csv`) in the `data` directory.
